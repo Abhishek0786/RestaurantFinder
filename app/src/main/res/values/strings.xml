@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Restaurant Finder</string>
+
+    <string name="retry">Retry</string>
+    <string name="no_network_connection">No Network Connection</string>
+    <string name="no_permission">No permission. Please Give the permissions</string>
+    <string name="please_wait">Please wait</string>
+
+    <string name="average_cost">Average cost %1$s for %2$d people </string>
+
+    <string name="detail_average_cost">Rs %1$s for %2$d people </string>
+
+    <string name="reviews">Reviews </string>
+
+    <string name="popular">Popularity </string>
+
+    <string name="rating">Top Rating </string>
+
+    <string name="search">Search </string>
+</resources>
